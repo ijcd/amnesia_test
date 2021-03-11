@@ -1,0 +1,2 @@
+defmodule AmnesiaTest do
+end
